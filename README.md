@@ -115,6 +115,18 @@ _Why would your business want this to exist?_
 
 ## Solution Narrative
 
+### Design
+
+- Design/info placeholder
+
+### Front End
+
+- placeholder
+
+### Backend
+
+- placeholder
+
 ### Initiatives
 
 |Project|Status|
