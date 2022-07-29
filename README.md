@@ -113,19 +113,20 @@ _Why would your business want this to exist?_
 - [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
 - [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 
-## Solution Narrative
 
-### Design
+## Design
 
 - Design/info placeholder
 
-### Front End
+## Front End
 
 - placeholder
 
-### Backend
+## Backend
 
 - placeholder
+
+## Solution Narrative
 
 ### Initiatives
 
