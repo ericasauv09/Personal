@@ -106,8 +106,10 @@ _Why would your business want this to exist?_
 -	We do not want this page to be co-opted by groups outside of VA.gov.
 -	We do not want this page to be turned into a benefit eligibility engine.
  
-## Measuring Success
+## Measuring Success/ Analytics
 
+- [Link to My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
+- [Overview of My VA Analytics](https://docs.google.com/document/d/1g8QKovunWJBWvZ-Ws1fmwcqjkWi8gdolAK3szGPb4zA/edit#heading=h.fjsk5xorypw1)
 - [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
 - [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 
@@ -160,7 +162,7 @@ _Why would your business want this to exist?_
 - This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
 - **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
 
-### Benefit payments and debts (staging only)
+### Benefit payments and debts
 
 - This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
 - There is also a link to update direct deposit information.
