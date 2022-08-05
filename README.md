@@ -116,6 +116,10 @@ _Why would your business want this to exist?_
 - [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
 - [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 
+## Platform Documentation/Process
+
+- As members of the VFS teams we participate in the collaboartion cycle as we develop new features for My VA. Information regarding the collaboration cycle can be found [here](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+- Plaform Slack channel is [here](https://join.slack.com/share/enQtMzkwNjAzMjA2OTcxNi04MDhiNDE3ZThjNDY0NWYwMGI0ODVmYTk2NjIxODAwZDgxOWE4ZDFiMDI1YTY2M2U4N2VkYTg2Mjg4NTViMDZk)
 
 ## Design
 
