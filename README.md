@@ -28,7 +28,7 @@ Last updated July 29, 2022
 - [Measuring Success/ Analytics](#measuring-success)
 - [Design](#Design)
 - [Frontend](#Front-End)
-- [Backend)(#Back-End)
+- [Backend](#Back-End)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [My VA features](#my-va-features)
