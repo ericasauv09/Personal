@@ -26,6 +26,7 @@ Last updated July 29, 2022
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success/ Analytics](#measuring-success)
+- [Platform Documentation/Process](#Platform-Documentation/Process)
 - [Design](#Design)
 - [Frontend](#Front-End)
 - [Backend](#Back-End)
