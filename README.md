@@ -25,7 +25,10 @@ Last updated July 29, 2022
 - [Opportunities & Priorities](#opportunities--priorities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
+- [Measuring Success/ Analytics](#measuring-success)
+- [Design](#Design)
+- [Frontend](#Front-End)
+- [Backend)(#Back-End)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [My VA features](#my-va-features)
@@ -122,7 +125,7 @@ _Why would your business want this to exist?_
 
 - placeholder
 
-## Backend
+## Back End
 
 - placeholder
 
