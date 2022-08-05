@@ -165,7 +165,7 @@ _Why would your business want this to exist?_
 - **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
 - **Backend system**: EVSS
 
-### Notifications (Staing)
+### Notifications (Staging Only)
 
 - This section will display any recent notifications for the veteran
 - Currently, only debt notifications are active but eventually we plan to add more
