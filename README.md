@@ -25,8 +25,8 @@ Last updated July 29, 2022
 - [Opportunities & Priorities](#opportunities--priorities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Measuring Success/ Analytics](#measuring-success)
-- [Platform Documentation/Process](#Platform-Documentation)
+- [Measuring Success](#measuring-success)
+- [Platform Documentation](#Platform-Documentation)
 - [Design](#Design)
 - [Frontend](#Front-End)
 - [Backend](#Back-End)
@@ -110,14 +110,14 @@ _Why would your business want this to exist?_
 -	We do not want this page to be co-opted by groups outside of VA.gov.
 -	We do not want this page to be turned into a benefit eligibility engine.
  
-## Measuring Success/ Analytics
+## Measuring Success
 
 - [Link to My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
 - [Overview of My VA Analytics](https://docs.google.com/document/d/1g8QKovunWJBWvZ-Ws1fmwcqjkWi8gdolAK3szGPb4zA/edit#heading=h.fjsk5xorypw1)
 - [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
 - [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 
-## Platform Documentation/Process
+## Platform Documentation
 
 - As members of the VFS teams we participate in the collaboartion cycle as we develop new features for My VA. Information regarding the collaboration cycle can be found [here](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
 - Plaform Slack channel is [here](https://join.slack.com/share/enQtMzkwNjAzMjA2OTcxNi04MDhiNDE3ZThjNDY0NWYwMGI0ODVmYTk2NjIxODAwZDgxOWE4ZDFiMDI1YTY2M2U4N2VkYTg2Mjg4NTViMDZk)
