@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated July 29, 2022
+Last updated August 8, 2022
 
 ### Communications
 
