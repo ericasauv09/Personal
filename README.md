@@ -174,6 +174,7 @@ _Why would your business want this to exist?_
 
 - This section will display any recent notifications for the veteran
 - Currently, only debt notifications are active but eventually we plan to add more
+- **Backend system**: VA Notify
 
 ### Claim status
 
