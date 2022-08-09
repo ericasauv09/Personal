@@ -124,7 +124,7 @@ _Why would your business want this to exist?_
 
 ## Design
 
-- Design/info placeholder
+- Sketch Files/Prototypes?
 
 ## Front End
 
@@ -132,7 +132,7 @@ _Why would your business want this to exist?_
 
 ## Back End
 
-- placeholder
+- [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
 
 ## Solution Narrative
 
