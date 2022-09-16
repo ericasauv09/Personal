@@ -20,7 +20,7 @@
 
 Design/Research: Angela Agosto
 
-Content/IA: 
+Content/IA: Danielle Thierry
 
 Front-end: Taylor Mitchell
 
