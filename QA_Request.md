@@ -1,7 +1,7 @@
 \[**Product Managers**: Open this ticket **at least 2 Sprints (4 weeks)** before you expect a Platform Staging Review of this Product/Feature.  Then:
 - Replace title's **[Product/Feature]** with your actual product/feature name.
 - Add yourself to Assignees
-- Fill-out sections below.]
+- Fill-out sections below.
 
 **See also**: Relevant [PTEMS-QA Manual-UI Testing process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-ui-testing-process.md) for details.
 
