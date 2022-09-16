@@ -19,9 +19,13 @@
 \[For any Practice-areas worked by 2+ team-member, clarify who specifically is assigned to this initiative/project. Leave blank for other areas.\]
 
 Design/Research: Angela Agosto
+
 Content/IA: 
+
 Front-end: Taylor Mitchell
-Back-end: 
+
+Back-end: Tom Harrison
+
 QA: Tze-chiu Lei
 
 ## Proposed use-cases and Staging test-accounts
