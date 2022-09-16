@@ -11,8 +11,8 @@
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va)
 - [Feature Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43332)
-- Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
-- Product/Feature Design prototypes: \[provide link(s)]
+- Product/Feature Copy deck(s): [Benefit payment documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/benefit-payments-FE-documentation.md) & [Outstanding debts documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/outstanding-debts-FE-documentation.md)
+- [Product/Feature Design prototypes](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/rb3RzvK)
 
 ## Product-team SMEs
 
