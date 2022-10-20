@@ -45,7 +45,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Problem Statement
 
-- As a customer of the VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
+- As a customer of the VA, I want to be informed in a timely and efficient manner when I have action items or updates about my circumstances at VA.
 
 ## User outcomes
 
