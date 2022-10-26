@@ -78,7 +78,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 - Objective: Action items and critical updates are elevated for our users
 - Objective: Users are able to act on action items quicker
-- Objective: The most important information is accessible and hihglited for our users
+- Objective: Users have a clear understanding of the information that is most important for them to act on
 - Initial metrics will be tracked as part of the [on-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success).
 
 ## Projects
