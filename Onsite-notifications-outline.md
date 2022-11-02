@@ -81,11 +81,10 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
     - KR 2: 100% of users who have an action item have a notificaiton on their My VA Dashboard (new debt, claim information needed, education information needed)
 - Objective: Users are able to act on action items quicker
     - KR 1: Users who have a notification on their My VA dashboard complete action items 10% quicker than before they had notifications 
-- Objective: Users have a clear understanding of the information that is most important for them to act on
-    - KR 1: User Medallia feedback does not include any confusion about the notifications
 - Objective: Users are not overwhlemed or confused by the amount of notifications
-    - KR 1: User Medallia feedback does not include any confusion about the notificaitons
-    - KR 2: User Medallia feedback does not include any complaints about too many notifications
+    - KR 1: User feedback does not include any confusion about the notificaitons
+    - KR 2: User feedback does not include any complaints about too many notifications
+    - KR 3: Users are not dismissing the notifications at high rates
 - Initial metrics will be tracked as part of the [on-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success).
 
 ## Projects
