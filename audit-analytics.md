@@ -60,7 +60,13 @@ Potential links to track:
 - No changes/new analytics needed
 
 ### Education and Training
+This is a new section to My VA, here are the potential links to track:
 
+| ***Link*** | ***GA tag*** |
+| ---- | ---- |
+| Learn how to apply for VA educational benefits | TBD |
+| Compare GI Bill benefits by school | TBD |
+| Check your BI Bill Statement of Benefits | TBD |
 
 ### Saved Applications
 
