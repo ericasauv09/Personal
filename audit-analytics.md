@@ -84,3 +84,10 @@ Previously the "Apply for Beenfits" section:
 
 ### LOA1 Users
 - do we want to track anything for this? we do not currently have analytics for LOA1.
+
+| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
+| ---- | ---- | ---- | ---- | ---- |
+| Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - Verify your identity` | N/A | ---- |
+| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | ---- |
+
+- Need to verify that the above tag are correct
