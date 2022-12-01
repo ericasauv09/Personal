@@ -25,6 +25,31 @@ Current Analytics:
 
 
 ### Healthcare
+- Potential links: 
+1. Apply for VA health care
+2. Schedule and manage your appointments
+3. Send a secure message to your health care team
+4. Refill and track your prescriptions
+5. Request travel reimbursement
+6. Get your VA medical records and lab and test results
+7. Review your messages
+
+- No Healthcare (New version): 
+<img width="638" alt="Screen Shot 2022-12-01 at 10 40 25" src="https://user-images.githubusercontent.com/97113607/205095672-20189d4c-9793-4b63-b904-0b5888f1e76e.png">
+
+- Has Healthcare (New version): 
+<img width="1102" alt="Screen Shot 2022-12-01 at 10 41 24" src="https://user-images.githubusercontent.com/97113607/205095792-cdb421c0-4a1c-4a58-97eb-0469c66f80ea.png">
+
+- Has Healthcare, with messages (New version):
+<img width="1024" alt="Screen Shot 2022-12-01 at 10 42 15" src="https://user-images.githubusercontent.com/97113607/205096260-51576a07-2c3c-4d83-9671-3eb5485833ae.png">
+
+- Has Healthcare, w/messages and no appt (New version): 
+<img width="1110" alt="Screen Shot 2022-12-01 at 10 42 35" src="https://user-images.githubusercontent.com/97113607/205096369-30193123-6a3f-47d9-b7a6-8f250c2ed517.png">
+
+- Has Heatlhcare, no messages no appts (New version): 
+<img width="625" alt="Screen Shot 2022-12-01 at 10 42 52" src="https://user-images.githubusercontent.com/97113607/205096447-a06a31e9-4394-47aa-a350-921f4fc13429.png">
+
+
 
 ### Outstanding Debts
 - No changes/new analytics needed
