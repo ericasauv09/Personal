@@ -52,11 +52,6 @@ Potential links to track:
 - Has Heatlhcare, no messages no appts (New version): 
 <img width="625" alt="Screen Shot 2022-12-01 at 10 42 52" src="https://user-images.githubusercontent.com/97113607/205096447-a06a31e9-4394-47aa-a350-921f4fc13429.png">
 
-#### Analytics updates:
-1. Change tag for #2 above from #Schedule and view your appointments" to "Schedule and manage your appointments" 
-2. Change tag for #7 above from "View your messages to "Review your messages"
-3. Change tag for #6 above from "Get your VA medical records" to "Get your VA medical records and lab and test results"
-
 
 ### Outstanding Debts
 - No changes/new analytics needed
