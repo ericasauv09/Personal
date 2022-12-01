@@ -88,9 +88,8 @@ Previously the "Apply for Beenfits" section:
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
 | Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A | #11 |
-| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | ---- |
+| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | Need to verify that this is the right tag |
 
-- Need to verify that the above tag are correct
 
 - New LOA1 Design: 
 <img width="520" alt="Screen Shot 2022-12-01 at 11 58 54" src="https://user-images.githubusercontent.com/97113607/205113785-a9874cbe-6e4d-411c-bf44-a26a4baea71b.png">
