@@ -7,8 +7,10 @@
 - Possible links for an open claim: "Manage all claims and appeals" and "Review Details"
 - Possible links for a no claims: "Learn how to file a claim" and "Manage all claims and appeals"
 
-No Claims or Appeals (New version): <img width="626" alt="Screen Shot 2022-12-01 at 09 46 21" src="https://user-images.githubusercontent.com/97113607/205082638-19f957b8-682c-4ac0-9703-e9c290e99e40.png">
-Has Claims or Appeals (New version): <img width="1053" alt="Screen Shot 2022-12-01 at 09 47 40" src="https://user-images.githubusercontent.com/97113607/205082984-4d6bd320-a485-4746-be80-6c25489bc6c3.png">
+- No Claims or Appeals (New version): 
+- <img width="626" alt="Screen Shot 2022-12-01 at 09 46 21" src="https://user-images.githubusercontent.com/97113607/205082638-19f957b8-682c-4ac0-9703-e9c290e99e40.png">
+- Has Claims or Appeals (New version): 
+- <img width="1053" alt="Screen Shot 2022-12-01 at 09 47 40" src="https://user-images.githubusercontent.com/97113607/205082984-4d6bd320-a485-4746-be80-6c25489bc6c3.png">
 
 
 
