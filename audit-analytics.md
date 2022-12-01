@@ -27,6 +27,7 @@ Current Analytics:
 ### Healthcare
 - Potential links to track: 
 | Old Link | New Link | Old GA Tag | New GA tag |
+| ---- | ---- | ---- | ---- |
 | N/A | Apply for VA health care | N/A | Need a new GA event for "Apply for Health care"|
 | Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` |
 1. Apply for VA health care - new link
