@@ -4,7 +4,7 @@
 - No changes/new analytics needed
 
 ### Claims and Appeals
-Current Analytics: `Navigation - Link List - Claims and Appeals - Check you claim or appeal status`
+Current Analytics: `Navigation - Link List - Claims and Appeals - Check your claim or appeal status`
 
 - Possible links for an open claim: "Manage all claims and appeals" and "Review Details"
 - Possible links for a no claims: "Learn how to file a claim" and "Manage all claims and appeals"
