@@ -83,7 +83,7 @@ Previously the "Apply for Beenfits" section:
 | Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
 
 ### LOA1 Users
-- do we want to track anything for this? we do not currently have analytics for LOA1.
+- Here are the current links for LOA1:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
@@ -91,3 +91,7 @@ Previously the "Apply for Beenfits" section:
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | ---- |
 
 - Need to verify that the above tag are correct
+
+- New LOA1 Design: 
+<img width="520" alt="Screen Shot 2022-12-01 at 11 58 54" src="https://user-images.githubusercontent.com/97113607/205113785-a9874cbe-6e4d-411c-bf44-a26a4baea71b.png">
+
