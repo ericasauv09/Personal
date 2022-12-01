@@ -27,17 +27,15 @@ Current Analytics:
 ### Healthcare
 - Potential links to track: 
 
-| Old Link | New Link | Old GA Tag | New GA tag |
-| ---- | ---- | ---- | ---- |
-| N/A | Apply for VA health care | N/A | Need a new GA event for "Apply for Health care"|
-| Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` |
-1. Apply for VA health care - new link
-2. Schedule and manage your appointments (#28) - 
-3. Send a secure message to your health care team - `Navigation - Link List - Health care - View your messages`
-4. Refill and track your prescriptions (#9) - `Navigation - Link List - Health care - Refill and track your prescriptions`
-5. Request travel reimbursement (#16) - `Navigation - Link List - Health care - Request travel reimbursement`
-6. Get your VA medical records and lab and test results (#21) - `Navigation-Link List-Health care-Get your VA medical records`
-7. Review your messages (#7) - `Navigation-Link List-Health care-View your messages`
+| Old Link | New Link | Old GA Tag | New GA tag | Interaction Ranking |
+| ---- | ---- | ---- | ---- | ---- |
+| N/A | Apply for VA health care | N/A | Need a new GA event for "Apply for Health care"| N/A |
+| Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
+| View your messages | Send a secure message to your health care team | `Navigation - Link List - Health care - View your messages` | `Navigation - Link List - Health care - Send a secure message to your health care team` | #7 |
+| Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 |
+| Request travel reimbursement | N/A | `Navigation - Link List - Health care - Request travel reimbursement` | N/A | #16 |
+| Get your VA medical records| Get your VA medical records and lab and test results | `Navigation-Link List-Health care-Get your VA medical records` | `Navigation-Link List-Health care - Get your VA medical records and lab and test results`| #21 |
+| View your messages | Review your messages | `Navigation-Link List-Health care-View your messages`| `Navigation-Link List-Health care-Review your messages`| #7 |
 
 - No Healthcare (New version): 
 <img width="638" alt="Screen Shot 2022-12-01 at 10 40 25" src="https://user-images.githubusercontent.com/97113607/205095672-20189d4c-9793-4b63-b904-0b5888f1e76e.png">
