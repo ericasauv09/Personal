@@ -4,7 +4,14 @@
 - No changes/new analytics needed
 
 ### Claims and Appeals
-Current Analytics: `Navigation - Link List - Claims and Appeals - Check your claim or appeal status`
+Current Analytics: 
+1. `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` - top interaction in GA but I have no idea what link this is referring to.
+2. I do not see any GA events for "manage all claims and appeals" in Prod
+3. `Dashboard- Navigation- View Button - View Claim` - also unsure of where this is coming from but it is a top interaction
+4. I do not see any GA events for "Learn how to file a claim"
+5. I do not see any GA events for "Review details"
+
+
 
 - Possible links for an open claim: "Manage all claims and appeals" and "Review Details"
 - Possible links for a no claims: "Learn how to file a claim" and "Manage all claims and appeals"
