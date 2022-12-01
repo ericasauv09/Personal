@@ -27,12 +27,12 @@ Current Analytics:
 ### Healthcare
 - Potential links: 
 1. Apply for VA health care
-2. Schedule and manage your appointments
+2. Schedule and manage your appointments (#28) - `Navigation - Link List - Heatlh care - Schedule and view your appointments`
 3. Send a secure message to your health care team
-4. Refill and track your prescriptions
-5. Request travel reimbursement
-6. Get your VA medical records and lab and test results
-7. Review your messages
+4. Refill and track your prescriptions (#9) - `Navigation - Link List - Health care - Refill and track your prescriptions`
+5. Request travel reimbursement (#16) - `Navigation - Link List - Health care - Request travel reimbursement`
+6. Get your VA medical records and lab and test results (#21) - `Navigation-Link List-Health care-Get your VA medical records`
+7. Review your messages (#7) - `Navigation-Link List-Health care-View your messages`
 
 - No Healthcare (New version): 
 <img width="638" alt="Screen Shot 2022-12-01 at 10 40 25" src="https://user-images.githubusercontent.com/97113607/205095672-20189d4c-9793-4b63-b904-0b5888f1e76e.png">
@@ -49,6 +49,10 @@ Current Analytics:
 - Has Heatlhcare, no messages no appts (New version): 
 <img width="625" alt="Screen Shot 2022-12-01 at 10 42 52" src="https://user-images.githubusercontent.com/97113607/205096447-a06a31e9-4394-47aa-a350-921f4fc13429.png">
 
+#### Analytics updates:
+1. Change tag for #2 above from #Schedule and view your appointments" to "Schedule and manage your appointments" 
+2. Change tag for #7 above from "View your messages to "Review your messages"
+3. Change tag for #6 above from "Get your VA medical records" to "Get your VA medical records and lab and test results"
 
 
 ### Outstanding Debts
