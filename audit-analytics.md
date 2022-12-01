@@ -62,11 +62,15 @@ Potential links to track:
 ### Education and Training
 This is a new section to My VA, here are the potential links to track:
 
-| **Old Link** | **New Link** | ** Old GA tag** | **New GA tag** |
+| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** |
 | ---- | ---- | ---- | ---- |
 | Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May need to change the tag since it is under a new section |
 | N/A | Compare GI Bill benefits by school | N/A | TBD |
 | N/A | Check your BI Bill Statement of Benefits | N/A | TBD |
+
+- New Education and Training Section:
+<img width="591" alt="Screen Shot 2022-12-01 at 11 32 13" src="https://user-images.githubusercontent.com/97113607/205107835-cb009bb5-2a2e-40b7-9aa5-d598a6735f52.png">
+
 
 ### Saved Applications
 
