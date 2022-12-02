@@ -61,20 +61,45 @@ Potential links to track:
 | Get your VA medical records| Get your VA medical records and lab and test results | `Navigation-Link List-Health care-Get your VA medical records` | `Navigation-Link List-Health care - Get your VA medical records and lab and test results`| #21 |
 | View your messages | Review your messages | `Navigation-Link List-Health care-View your messages`| `Navigation-Link List-Health care-Review your messages`| #7 |
 
-- No Healthcare (New version): 
+<details>
+  <summary>No Healthcare (New version):</summary>
+  <br>
+  
 <img width="638" alt="Screen Shot 2022-12-01 at 10 40 25" src="https://user-images.githubusercontent.com/97113607/205095672-20189d4c-9793-4b63-b904-0b5888f1e76e.png">
+  
+  </details>
 
-- Has Healthcare (New version): 
+<details>
+  <summary>Has Healthcare (New version):</summary>
+  <br>
+  
 <img width="1102" alt="Screen Shot 2022-12-01 at 10 41 24" src="https://user-images.githubusercontent.com/97113607/205095792-cdb421c0-4a1c-4a58-97eb-0469c66f80ea.png">
 
-- Has Healthcare, with messages (New version):
+  </details>
+  
+<details>
+  <summary>Has Healthcare, with messages (New version):</summary>
+  <br>
+  
 <img width="1024" alt="Screen Shot 2022-12-01 at 10 42 15" src="https://user-images.githubusercontent.com/97113607/205096260-51576a07-2c3c-4d83-9671-3eb5485833ae.png">
+  
+  </details>
 
-- Has Healthcare, w/messages and no appt (New version): 
+<details>
+  <summary>Has Healthcare, w/messages and no appt (New version):</summary>
+  <br>
+  
 <img width="1110" alt="Screen Shot 2022-12-01 at 10 42 35" src="https://user-images.githubusercontent.com/97113607/205096369-30193123-6a3f-47d9-b7a6-8f250c2ed517.png">
+  
+  </deails>
 
-- Has Heatlhcare, no messages no appts (New version): 
+<details>
+  <summary>Has Heatlhcare, no messages no appts (New version):</summary>
+  <br>
+  
 <img width="625" alt="Screen Shot 2022-12-01 at 10 42 52" src="https://user-images.githubusercontent.com/97113607/205096447-a06a31e9-4394-47aa-a350-921f4fc13429.png">
+  
+  </details>
 
 
 ### Outstanding debts
@@ -86,8 +111,13 @@ Potential links to track:
 | Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` |
 | Learn about VA debt | ` ` |
 
-- Outstaing debts section:
+<details>
+  <summary>Outstaing debts section:</summary>
+  <br>
+  
 <img width="1062" alt="Screen Shot 2022-12-02 at 15 19 49" src="https://user-images.githubusercontent.com/97113607/205379198-b57713c8-361f-42bb-8f14-6ae025ad3aa7.png">
+  
+  </details>
 
 
 ### Benefit payments
@@ -107,8 +137,13 @@ This is a new section to My VA, here are the potential links to track:
 | N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
 | N/A | Check your BI Bill Statement of Benefits | N/A | TBD | N/A |
 
-- New Education and Training Section:
+<details>
+  <summary>New Education and Training Section:</summary>
+  <br>
+  
 <img width="591" alt="Screen Shot 2022-12-01 at 11 32 13" src="https://user-images.githubusercontent.com/97113607/205107835-cb009bb5-2a2e-40b7-9aa5-d598a6735f52.png">
+  
+  </details>
 
 
 ### Saved applications
@@ -130,6 +165,11 @@ Previously the "Apply for Benfits" section:
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | Need to verify that this is the right tag |
 
 
-- New LOA1 Design: 
+<deatils>
+  <summary>New LOA1 Design:</summary>
+  <br>
+  
 <img width="520" alt="Screen Shot 2022-12-01 at 11 58 54" src="https://user-images.githubusercontent.com/97113607/205113785-a9874cbe-6e4d-411c-bf44-a26a4baea71b.png">
+  
+  </details>
 
