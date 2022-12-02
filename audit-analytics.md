@@ -112,11 +112,19 @@ Potential links to track:
 | Learn about VA debt | ` ` |
 
 <details>
-  <summary>Outstaing debts section:</summary>
+  <summary>Outstaing debts section (has debts):</summary>
   <br>
   
 <img width="1062" alt="Screen Shot 2022-12-02 at 15 19 49" src="https://user-images.githubusercontent.com/97113607/205379198-b57713c8-361f-42bb-8f14-6ae025ad3aa7.png">
   
+  </details>
+
+<details>
+  <summary> Outstanding debts section (no debts):</summary>
+  <br>
+  
+  <img width="750" alt="Screen Shot 2022-12-02 at 15 43 37" src="https://user-images.githubusercontent.com/97113607/205382862-109d5203-aecb-49ae-a18c-8cc198ee7c50.png">
+
   </details>
 
 
@@ -128,6 +136,14 @@ Potential links to track:
 | Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two potential tags for payment history, it looks like the second one is what is being tracked now with Payments V2 |
 | Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   |
 
+<details>
+  <summary>Benefit Payments section:</summary>
+  <br>
+  
+  <img width="1003" alt="Screen Shot 2022-12-02 at 15 45 35" src="https://user-images.githubusercontent.com/97113607/205383350-2c1e77dd-959e-45f7-a4fa-09033dd7442b.png">
+
+  </details>
+  
 ### Education and training
 This is a new section to My VA, here are the potential links to track:
 
@@ -156,6 +172,14 @@ Previously the "Apply for Benfits" section:
 | Learn how to apply for VA Health care | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | Confirm no action is needed | #35 |
 | Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
 
+<details>
+  <summary>Saved applications section:</summary>
+  <br>
+  
+  <img width="1030" alt="Screen Shot 2022-12-02 at 15 46 49" src="https://user-images.githubusercontent.com/97113607/205383573-b31d153e-4a60-4073-9234-c59cba1e0a46.png">
+
+  </details>
+    
 ### LOA1 Users
 - Here are the current links for LOA1:
 
@@ -165,7 +189,7 @@ Previously the "Apply for Benfits" section:
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | Need to verify that this is the right tag |
 
 
-<deatails>
+<details>
   <summary>New LOA1 Design:</summary>
   <br>
   
