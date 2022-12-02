@@ -10,7 +10,7 @@ Current Analytics:
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
-| Unsure | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | Need new tag/updated tag | #1 interaction, this is a top interaction in GA but I have no idea what link this is referring to. |
+| Unsure | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | Need new tag/updated tag | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked |
 | View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | Needs new tag/updated tag | also unsure of where this is coming from but it is the #2 interaction |
 | N/A | Learn how to file a claim | N/A | Needs new tag | N/A |
 
