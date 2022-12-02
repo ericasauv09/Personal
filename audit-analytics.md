@@ -67,11 +67,16 @@ Potential links to track:
 - No changes/new analytics needed, here are the current analytics tracked:
 
 | **Link** | **GA Tag** |
+| ---- | ---- |
 | Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` |
 | Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` |
 
+- Outstaing debts section:
+<img width="1062" alt="Screen Shot 2022-12-02 at 15 19 49" src="https://user-images.githubusercontent.com/97113607/205379198-b57713c8-361f-42bb-8f14-6ae025ad3aa7.png">
+
+
 ### Benefit payments
-- No changes/new analytics needed
+- No changes/new analytics needed, here are the current analytics tracked:
 
 ### Education and training
 This is a new section to My VA, here are the potential links to track:
