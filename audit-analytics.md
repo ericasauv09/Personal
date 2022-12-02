@@ -91,7 +91,7 @@ Potential links to track:
   
 <img width="1110" alt="Screen Shot 2022-12-01 at 10 42 35" src="https://user-images.githubusercontent.com/97113607/205096369-30193123-6a3f-47d9-b7a6-8f250c2ed517.png">
   
-  </deails>
+  </details>
 
 <details>
   <summary>Has Heatlhcare, no messages no appts (New version):</summary>
@@ -165,7 +165,7 @@ Previously the "Apply for Benfits" section:
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | Need to verify that this is the right tag |
 
 
-<deatils>
+<deatails>
   <summary>New LOA1 Design:</summary>
   <br>
   
