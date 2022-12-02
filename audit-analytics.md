@@ -15,7 +15,7 @@ Current Analytics:
 | N/A | Learn how to file a claim | N/A | Needs new tag | N/A |
 
 - Possible links for an open claim: "Manage all claims and appeals" and "Review Details"
-- Possible links for a no claims: "Learn how to file a claim" and "Manage all claims and appeals"
+- Possible links for no claims: "Learn how to file a claim" and "Manage all claims and appeals"
 
 - No Claims or Appeals (New version): 
 <img width="626" alt="Screen Shot 2022-12-01 at 09 46 21" src="https://user-images.githubusercontent.com/97113607/205082638-19f957b8-682c-4ac0-9703-e9c290e99e40.png">
