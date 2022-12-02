@@ -109,7 +109,7 @@ Potential links to track:
 | ---- | ---- |
 | Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` |
 | Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` |
-| Learn about VA debt | ` ` |
+| Learn about VA debt | `Navigation - Link List - Learn about VA debt - Learn about VA debt` |
 
 <details>
   <summary>Outstaing debts section (has debts):</summary>
@@ -168,7 +168,7 @@ Previously the "Apply for Benfits" section:
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
 | What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15| 
-| Continue your application | Same as old one | ---- | ---- | ---- |
+| Continue your application | Same as old one | Do not see any GA events for this | ---- | ---- |
 | Learn how to apply for VA Health care | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | Confirm no action is needed | #35 |
 | Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
 
