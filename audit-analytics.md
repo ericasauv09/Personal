@@ -30,11 +30,21 @@ Current Analytics:
 | View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | Needs new tag/updated tag | also unsure of where this is coming from but it is the #2 interaction |
 | N/A | Learn how to file a claim | N/A | Needs new tag | I see `profile-navigation - view link - learn how to file a claim` being tracked in Staging, but this is a new link |
 
-- No Claims or Appeals (New version): 
+<details>
+  <summary>No Claims or Appeals (New version):</summary>
+  <br>
+  
 <img width="626" alt="Screen Shot 2022-12-01 at 09 46 21" src="https://user-images.githubusercontent.com/97113607/205082638-19f957b8-682c-4ac0-9703-e9c290e99e40.png">
+  
+  </details>
 
-- Has Claims or Appeals (New version): 
+<details>
+  <summary>Has Claims or Appeals (New version):</summary>
+  <br>
+  
 <img width="1053" alt="Screen Shot 2022-12-01 at 09 47 40" src="https://user-images.githubusercontent.com/97113607/205082984-4d6bd320-a485-4746-be80-6c25489bc6c3.png">
+  
+  </details>
 
 
 
