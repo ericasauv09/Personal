@@ -22,7 +22,7 @@ More information on notifications analytics can be found [here](https://github.c
 </details>
 
 ### Claims and appeals
-Current Analytics: 
+- Current Analytics: 
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
@@ -49,7 +49,7 @@ Current Analytics:
 
 
 ### Health care
-Potential links to track: 
+- Potential links to track: 
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
@@ -112,7 +112,7 @@ Potential links to track:
 | Learn about VA debt | `Navigation - Link List - Learn about VA debt - Learn about VA debt` |
 
 <details>
-  <summary>Outstaing debts section (has debts):</summary>
+  <summary>Outstanding debts section (has debts):</summary>
   <br>
   
 <img width="1062" alt="Screen Shot 2022-12-02 at 15 19 49" src="https://user-images.githubusercontent.com/97113607/205379198-b57713c8-361f-42bb-8f14-6ae025ad3aa7.png">
@@ -145,7 +145,7 @@ Potential links to track:
   </details>
   
 ### Education and training
-This is a new section to My VA, here are the potential links to track:
+- This is a new section to My VA, here are the potential links to track:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
@@ -163,7 +163,7 @@ This is a new section to My VA, here are the potential links to track:
 
 
 ### Saved applications
-Previously the "Apply for Benfits" section:
+- Previously the "Apply for Benefits" section:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
