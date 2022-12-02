@@ -70,6 +70,7 @@ Potential links to track:
 | ---- | ---- |
 | Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` |
 | Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` |
+| Learn about VA debt | ` ` |
 
 - Outstaing debts section:
 <img width="1062" alt="Screen Shot 2022-12-02 at 15 19 49" src="https://user-images.githubusercontent.com/97113607/205379198-b57713c8-361f-42bb-8f14-6ae025ad3aa7.png">
@@ -77,6 +78,11 @@ Potential links to track:
 
 ### Benefit payments
 - No changes/new analytics needed, here are the current analytics tracked:
+
+| **Link** | **GA Tag** | **Note** |
+| ---- | ---- | --- |
+| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two potential tags for payment history, not sure why? |
+| Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` | is this correct? |
 
 ### Education and training
 This is a new section to My VA, here are the potential links to track:
@@ -92,7 +98,7 @@ This is a new section to My VA, here are the potential links to track:
 
 
 ### Saved applications
-Previously the "Apply for Beenfits" section:
+Previously the "Apply for Benfits" section:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
