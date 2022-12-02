@@ -54,7 +54,7 @@ Potential links to track:
 ### Outstanding Debts
 - No changes/new analytics needed
 
-### Payments
+### Benefit Payments
 - No changes/new analytics needed
 
 ### Education and Training
