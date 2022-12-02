@@ -81,8 +81,8 @@ Potential links to track:
 
 | **Link** | **GA Tag** | **Note** |
 | ---- | ---- | --- |
-| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two potential tags for payment history, not sure why? |
-| Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` | is this correct? |
+| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two potential tags for payment history, it looks like the second one is what is being tracked now with Payments V2 |
+| Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   |
 
 ### Education and training
 This is a new section to My VA, here are the potential links to track:
