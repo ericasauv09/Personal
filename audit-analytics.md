@@ -64,7 +64,11 @@ Potential links to track:
 
 
 ### Outstanding debts
-- No changes/new analytics needed
+- No changes/new analytics needed, here are the current analytics tracked:
+
+| **Link** | **GA Tag** |
+| Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` |
+| Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` |
 
 ### Benefit payments
 - No changes/new analytics needed
