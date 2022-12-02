@@ -13,9 +13,11 @@
 
 More information on notifications analytics can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/analytics-documentation.md).
 
-- Onsite Notifications (New version):
+<details>
+  <summary> Onsite Notifications (New version):</summary>
+  <br>
 ![image](https://user-images.githubusercontent.com/97113607/205377986-f400af7c-ffe5-4566-b992-2772ef4ef6e1.png)
-
+</details>
 
 ### Claims and appeals
 Current Analytics: 
