@@ -3,9 +3,18 @@
 ### Updated on December 2, 2022
 
 ### Notifications
-- No changes/new analytics needed
+- No changes/new analytics needed, however here are the current analytics tracked for onsite notifications:
 
-### Claims and Appeals
+| **Link** | **GA Tag** |
+| ---- | ---- |
+| Manage your VA debt | `Dashboard - Navigation - View Link from Notifications` |
+
+[Link to onsite notifications dashboard in GA](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/) 
+
+More information on notifications analytics can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/analytics-documentation.md).
+
+
+### Claims and appeals
 Current Analytics: 
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
@@ -22,7 +31,7 @@ Current Analytics:
 
 
 
-### Healthcare
+### Health care
 Potential links to track: 
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
@@ -51,13 +60,13 @@ Potential links to track:
 <img width="625" alt="Screen Shot 2022-12-01 at 10 42 52" src="https://user-images.githubusercontent.com/97113607/205096447-a06a31e9-4394-47aa-a350-921f4fc13429.png">
 
 
-### Outstanding Debts
+### Outstanding debts
 - No changes/new analytics needed
 
-### Benefit Payments
+### Benefit payments
 - No changes/new analytics needed
 
-### Education and Training
+### Education and training
 This is a new section to My VA, here are the potential links to track:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
@@ -70,7 +79,7 @@ This is a new section to My VA, here are the potential links to track:
 <img width="591" alt="Screen Shot 2022-12-01 at 11 32 13" src="https://user-images.githubusercontent.com/97113607/205107835-cb009bb5-2a2e-40b7-9aa5-d598a6735f52.png">
 
 
-### Saved Applications
+### Saved applications
 Previously the "Apply for Beenfits" section:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
